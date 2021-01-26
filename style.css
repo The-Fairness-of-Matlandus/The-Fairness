@@ -15,10 +15,7 @@
     width: 900px;
     float: right;
 }
-#nav {
-    width: 100px;
-    float: left;
-    font-family: 'Avenir';
+
 }
 #content {
     padding: 10px;}
