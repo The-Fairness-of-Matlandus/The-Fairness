@@ -1,23 +1,26 @@
 #header {
     text-align: center;
     font-family: 'Didot';
-    font-size: 40px;
-    margin-top: 30px;
-    margin-bottom: 10px;
+    font-size: 50px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    color: lightcoral;
 }
 #container {
     width: 1000px;
     margin-left: auto;
     margin-right: auto;   
+    /*Add overflow:auto to fix background color */
 }
 #main {
     width: 800px;
     float: right;
 }
-#nav {
+#The_Daily {
     width: 100px;
     float: left;
     font-family: 'Avenir';
+    color: lightseagreen;
 }
 #content {
     padding: 10px;}
@@ -28,14 +31,19 @@
 }
 #body {
     font-family: 'Adobe Caslon Pro';
+    font-size: 16px;
+   
 }
 
 .audio-container {
     display: flex;
     justify-content: center;
     align-items: center;
+    
 
   }
   
+
+
 
 
