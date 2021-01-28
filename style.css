@@ -13,9 +13,10 @@
     /*Add overflow:auto to fix background color */
 }
 #main {
+    font-size: 18px;
     width: 800px;
     float: right;
-    font-size: 18px;
+    
 }
 #The_Daily {
     width: 100px;
