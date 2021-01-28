@@ -24,8 +24,7 @@
     font-family: 'Avenir';
     color: lightseagreen;
 }
-#content {
-    }
+/*Removed #content to remove padding, might want to access later*/
 
 #nav ul {
     list-style-type: none;
